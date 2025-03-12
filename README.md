@@ -1,16 +1,8 @@
-# Supply-Chain-Analysis
-Analysis of supply chain dataset
+
 ---
 
 # Supply Chain Analysis: Data Exploration and Visualization
 
-## You going to see different types of plots I have used . Feel Free to explore them
-
-### Streamlit Dashboard:
-
-To complement the exploratory data analysis, I have created an interactive Streamlit dashboard. The dashboard provides real-time visualization and analysis of the supply chain data, making it easier to identify trends, patterns, and areas for improvement.
-
-## Dashboard Link: <a href = "https://analyticsforfashionsupplymanagement.streamlit.app/" style = "color: pink">Click Here To Explore The Dashboard</a>📊
 
 ## Summary
 
